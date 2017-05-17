@@ -1,0 +1,5 @@
+2017-05-11 14:18:32,219 - sample - INFO - Program started
+2017-05-11 14:18:32,220 - sample - INFO - Done!
+2017-05-11 14:19:01,973 - sample - INFO - Program started
+2017-05-11 14:19:01,973 - sample.otherModule.add - INFO - added 7 and 8 to get 15
+2017-05-11 14:19:01,973 - sample - INFO - Done!

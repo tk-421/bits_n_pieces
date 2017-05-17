@@ -1,0 +1,7 @@
+INFO:root:Informational Message
+ERROR:root:An error has occured!
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "logger.py", line 13, in <module>
+    raise RuntimeError
+RuntimeError
